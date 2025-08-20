@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 ---
 
